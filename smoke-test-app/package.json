@@ -42,7 +42,7 @@
     "ember-source": "~3.28.4",
     "eslint-plugin-ember": "^8.14.0",
     "loader.js": "^4.7.0",
-    "qunit-dom": "^1.6.0"
+    "qunit-dom": "^2.0.0"
   },
   "resolutions": {
     "console-ui": "^3.0.0"
